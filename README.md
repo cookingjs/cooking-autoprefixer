@@ -4,7 +4,7 @@
 
 ## Usage
 
-```javacript
+```javascript
 cooking.set({
   //...
   extends: ['vue', 'autoprefixer']
