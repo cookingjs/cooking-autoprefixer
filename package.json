@@ -1,0 +1,15 @@
+{
+  "name": "cooking-autoprefixer",
+  "version": "0.0.0",
+  "description": "A cooking plugin.",
+  "keywords": [
+    "cooking"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^6.0.0"
+  }
+}
